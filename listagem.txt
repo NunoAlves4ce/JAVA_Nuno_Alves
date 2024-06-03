@@ -1,0 +1,5 @@
+computador
+portátil
+telemóvel
+tablet
+smartphone
